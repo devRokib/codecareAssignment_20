@@ -1,0 +1,82 @@
+.gradient{
+    background: linear-gradient(135deg, rgb(0,97,242) 0%, rgb(105,0,199) 100%);
+}
+.heroSection{
+    padding: 50px 0;
+    color: #fff;
+}
+.d-flex {
+    display: flex!important;
+    align-items: center;
+}
+
+.custom-shape-divider-bottom-1712568271 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1712568271 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 32px;
+}
+
+.custom-shape-divider-bottom-1712568271 .shape-fill {
+    fill: #FFFFFF;
+}
+
+
+
+.custom-shape-divider-top-1712568138 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1712568138 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 52px;
+}
+
+.custom-shape-divider-top-1712568138 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.introSection ul li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+.introSection p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 16px;
+    line-height: 27px;
+    letter-spacing: 0.3px;
+}
+.introSection h2 {
+    font-size: 33px;
+    line-height: 45px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+.serviceIcon{
+    font-size: 20px;
+    border-radius: 50%;
+}
+
+
+
+.latestWork{
+    background: #f5f5f5;
+}
